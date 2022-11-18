@@ -1,4 +1,4 @@
-package com.adw.petclinic.model;
+package petclinic.model;
 
 import java.time.LocalDate;
 
@@ -24,11 +24,11 @@ public class Pet {
         this.owner = owner;
     }
 
-    public localDate getBirthDate() {
+    public LocalDate getBirthDate() {
         return birthDate;
     }
 
-    public void setBirthDate(localDate birthDate) {
+    public void setBirthDate(LocalDate birthDate) {
         this.birthDate = birthDate;
     }
 }

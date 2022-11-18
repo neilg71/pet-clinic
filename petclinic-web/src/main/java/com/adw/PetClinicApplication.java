@@ -1,4 +1,4 @@
-package com.adw.petclinic;
+package com.adw;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
