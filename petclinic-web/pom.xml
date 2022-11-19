@@ -3,11 +3,12 @@
     <parent>
         <artifactId>pet-clinic</artifactId>
         <groupId>com.adw</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.3</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>petclinic-web</artifactId>
+  <version>0.0.1</version>
 
     <properties>
         <maven.compiler.source>19</maven.compiler.source>
@@ -47,4 +48,8 @@
         </dependency>
     </dependencies>
 
+
+  <scm>
+    <tag>pet-clinic-0.0.3</tag>
+  </scm>
 </project>
