@@ -52,7 +52,6 @@
     <scm>
         <developerConnection>scm:git:git@github.com:neilg71/pet-clinic.git</developerConnection>
         <!--<tag>pet-clinic-0.0.3</tag>-->
-      <tag>pet-clinic-0.0.3</tag>
   </scm>
 
 </project>
