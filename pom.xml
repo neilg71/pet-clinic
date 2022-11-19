@@ -35,7 +35,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <!--
                 <configuration>
-                    <mainClass>com.adw.PetClinicApplication</mainClass>
+                    <mainClass>com.adw.petclinic.PetClinicApplication</mainClass>
                 </configuration>
                 -->
             </plugin>

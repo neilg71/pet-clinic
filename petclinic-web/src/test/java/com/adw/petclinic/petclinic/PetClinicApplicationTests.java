@@ -1,4 +1,4 @@
-package petclinic;
+package com.adw.petclinic.petclinic;
 
 import org.springframework.boot.test.context.SpringBootTest;
 
