@@ -3,12 +3,12 @@
     <parent>
         <artifactId>pet-clinic</artifactId>
         <groupId>com.adw</groupId>
-        <version>0.0.4</version>
+        <version>0.0.5-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>petclinic-web</artifactId>
-    <version>0.0.4</version>
+    <version>0.0.5-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>19</maven.compiler.source>
@@ -20,7 +20,7 @@
         <dependency>
             <artifactId>petclinic-data</artifactId>
             <groupId>com.adw</groupId>
-            <version>0.0.4</version>
+            <version>0.0.5-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>

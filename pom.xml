@@ -4,7 +4,7 @@
 
     <groupId>com.adw</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.4</version>
+    <version>0.0.5-SNAPSHOT</version>
 
     <packaging>pom</packaging>
 
@@ -52,7 +52,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:neilg71/pet-clinic.git</developerConnection>
-        <tag>pet-clinic-0.0.4</tag>
+        <tag>HEAD</tag>
   </scm>
 
 </project>
